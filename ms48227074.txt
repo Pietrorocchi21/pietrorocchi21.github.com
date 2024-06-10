@@ -1,0 +1,5 @@
+﻿{
+  "Description": "File di verifica della proprietà del dominio per Microsoft 365 - posizionato nella radice del sito Web",
+  "Domain": "github.com",
+  "Id": "e7f1c720-68b7-43fc-ae67-4663fc17f079"
+}
