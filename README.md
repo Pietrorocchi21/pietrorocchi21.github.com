@@ -8,7 +8,7 @@ Questa versione è autonoma da ChatGPT Sites. Usa **Cloudflare Workers Free + D1
 
 1. In Cloudflare apri **Workers & Pages → Create application → Import a repository**.
 2. Collega questa repository e seleziona il branch **main**.
-3. Nome del Worker: **pietro-rocchi-portfolio** (deve corrispondere a `wrangler.jsonc`).
+3. Nome del Worker: **pr** (deve corrispondere a `wrangler.jsonc`).
 4. Comando di build: `npm run build`.
 5. Comando di deploy: **`npm run deploy`**, non il solo `npx wrangler deploy`.
 6. Root directory: lascia vuota o `/`. Mantieni il piano Free.

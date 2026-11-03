@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "pietro-rocchi-portfolio",
+  "name": "pr",
   "main": "src/worker.js",
   "compatibility_date": "2026-11-01",
   "workers_dev": true,
