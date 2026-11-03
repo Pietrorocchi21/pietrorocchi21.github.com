@@ -1,0 +1,308 @@
+[
+  {
+    "key": "firstName",
+    "label": "Nome",
+    "group": "Identità",
+    "type": "text"
+  },
+  {
+    "key": "lastName",
+    "label": "Cognome",
+    "group": "Identità",
+    "type": "text"
+  },
+  {
+    "key": "heroEyebrow",
+    "label": "Sopratitolo",
+    "group": "Identità",
+    "type": "text"
+  },
+  {
+    "key": "latin",
+    "label": "Motto",
+    "group": "Identità",
+    "type": "text"
+  },
+  {
+    "key": "translation",
+    "label": "Traduzione",
+    "group": "Identità",
+    "type": "text"
+  },
+  {
+    "key": "visionLabel",
+    "label": "Etichetta",
+    "group": "Visione",
+    "type": "text"
+  },
+  {
+    "key": "visionHeading",
+    "label": "Titolo",
+    "group": "Visione",
+    "type": "text"
+  },
+  {
+    "key": "visionAccent",
+    "label": "Titolo in viola",
+    "group": "Visione",
+    "type": "text"
+  },
+  {
+    "key": "bio",
+    "label": "Presentazione personale",
+    "group": "Visione",
+    "type": "textarea"
+  },
+  {
+    "key": "visionNoteLabel",
+    "label": "Etichetta pannello",
+    "group": "Visione",
+    "type": "text"
+  },
+  {
+    "key": "visionNote",
+    "label": "Testo pannello",
+    "group": "Visione",
+    "type": "text"
+  },
+  {
+    "key": "visionNoteAccent",
+    "label": "Testo pannello in viola",
+    "group": "Visione",
+    "type": "text"
+  },
+  {
+    "key": "projectName",
+    "label": "Nome progetto: prima parte",
+    "group": "MotoLink",
+    "type": "text"
+  },
+  {
+    "key": "projectNameAccent",
+    "label": "Nome progetto: parte in viola",
+    "group": "MotoLink",
+    "type": "text"
+  },
+  {
+    "key": "projectStatus",
+    "label": "Stato progetto",
+    "group": "MotoLink",
+    "type": "text"
+  },
+  {
+    "key": "ideaTitle",
+    "label": "Titolo idea",
+    "group": "MotoLink",
+    "type": "text"
+  },
+  {
+    "key": "ideaAccent",
+    "label": "Titolo in viola idea",
+    "group": "MotoLink",
+    "type": "text"
+  },
+  {
+    "key": "ideaDescription",
+    "label": "Descrizione idea",
+    "group": "MotoLink",
+    "type": "textarea"
+  },
+  {
+    "key": "techTitle",
+    "label": "Titolo parte tecnica",
+    "group": "MotoLink",
+    "type": "text"
+  },
+  {
+    "key": "techAccent",
+    "label": "Titolo in viola parte tecnica",
+    "group": "MotoLink",
+    "type": "text"
+  },
+  {
+    "key": "techDescription",
+    "label": "Descrizione parte tecnica",
+    "group": "MotoLink",
+    "type": "textarea"
+  },
+  {
+    "key": "feature1Title",
+    "label": "Funzione 1: titolo",
+    "group": "Funzioni previste",
+    "type": "text"
+  },
+  {
+    "key": "feature1Description",
+    "label": "Funzione 1: descrizione",
+    "group": "Funzioni previste",
+    "type": "textarea"
+  },
+  {
+    "key": "feature2Title",
+    "label": "Funzione 2: titolo",
+    "group": "Funzioni previste",
+    "type": "text"
+  },
+  {
+    "key": "feature2Description",
+    "label": "Funzione 2: descrizione",
+    "group": "Funzioni previste",
+    "type": "textarea"
+  },
+  {
+    "key": "feature3Title",
+    "label": "Funzione 3: titolo",
+    "group": "Funzioni previste",
+    "type": "text"
+  },
+  {
+    "key": "feature3Description",
+    "label": "Funzione 3: descrizione",
+    "group": "Funzioni previste",
+    "type": "textarea"
+  },
+  {
+    "key": "projectDisclaimer",
+    "label": "Nota sul progetto",
+    "group": "MotoLink",
+    "type": "textarea"
+  },
+  {
+    "key": "contactTitle",
+    "label": "Titolo contatti",
+    "group": "Contatti",
+    "type": "text"
+  },
+  {
+    "key": "contactAccent",
+    "label": "Titolo in viola",
+    "group": "Contatti",
+    "type": "text"
+  },
+  {
+    "key": "githubUsername",
+    "label": "Username GitHub",
+    "group": "Contatti",
+    "type": "text"
+  },
+  {
+    "key": "instagram",
+    "label": "URL Instagram",
+    "group": "Contatti",
+    "type": "url"
+  },
+  {
+    "key": "tiktok",
+    "label": "URL TikTok",
+    "group": "Contatti",
+    "type": "url"
+  },
+  {
+    "key": "email",
+    "label": "Email personale",
+    "group": "Contatti",
+    "type": "email"
+  },
+  {
+    "key": "projectRepo",
+    "label": "Repository MotoLink",
+    "group": "Link MotoLink",
+    "type": "url"
+  },
+  {
+    "key": "projectSite",
+    "label": "Pagina o sito MotoLink (vuoto = coming soon)",
+    "group": "Link MotoLink",
+    "type": "url"
+  },
+  {
+    "key": "projectButton",
+    "label": "Testo del pulsante",
+    "group": "Link MotoLink",
+    "type": "text"
+  },
+  {
+    "key": "navVision",
+    "label": "Menu: visione",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "navProject",
+    "label": "Menu: progetto",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "navContact",
+    "label": "Menu: contatti",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "heroButton",
+    "label": "Pulsante in apertura",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "scrollHint",
+    "label": "Invito a scorrere",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "heroSignature",
+    "label": "Firma in apertura",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "projectLabel",
+    "label": "Etichetta progetto",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "ideaLabel",
+    "label": "Etichetta idea",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "techLabel",
+    "label": "Etichetta tecnica",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "featuresLabel",
+    "label": "Etichetta funzioni",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "featuresTitle",
+    "label": "Titolo funzioni",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "featuresAccent",
+    "label": "Titolo funzioni in viola",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "contactLabel",
+    "label": "Etichetta contatti",
+    "group": "Altri testi",
+    "type": "text"
+  },
+  {
+    "key": "githubLabel",
+    "label": "Etichetta GitHub",
+    "group": "Altri testi",
+    "type": "text"
+  }
+]
