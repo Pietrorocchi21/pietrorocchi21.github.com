@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.wrangler/
+.check-worker/
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.log
+.DS_Store
+.cloudflare-deploy.json
+
+!.dev.vars.example
